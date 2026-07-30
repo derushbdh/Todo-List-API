@@ -45,7 +45,7 @@ This project is a backend service for a Todo List application. It demonstrates t
 
 ---
 
-## 📚 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description | Auth Required |
 |--------|----------|-------------|---------------|
@@ -58,7 +58,7 @@ This project is a backend service for a Todo List application. It demonstrates t
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 To run the automated tests locally:
 ```bash
 pip install -r requirements.txt
